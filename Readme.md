@@ -1,7 +1,7 @@
 # Личный проект «Пинк» [![Build status][travis-image]][travis-url] [![Dependency status][dependency-image]][dependency-url]
 
 * Студент: [Яков Морозов](https://up.htmlacademy.ru/adaptive/21/user/1472321).
-* Наставник: `Неизвестно`.
+* Наставник: [Ксения Торкова](https://htmlacademy.ru/profile/id23249).
 
 ---
 
